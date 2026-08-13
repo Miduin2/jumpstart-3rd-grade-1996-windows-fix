@@ -1,0 +1,1062 @@
+[
+    {
+        "path":  "cd/3G/ag001.rsc",
+        "size":  2487086,
+        "sha256":  "3EA387951AAB6C4BEA60B5C2922565C003D6F4F7B83F515D3270286CFB286DF0"
+    },
+    {
+        "path":  "cd/3G/bh001.rsc",
+        "size":  860615,
+        "sha256":  "BFFF9109E9EFF491C1C5DC080DBFABE740CAD64DC595587CBF571A001B198664"
+    },
+    {
+        "path":  "cd/3G/bi001.rsc",
+        "size":  1121849,
+        "sha256":  "E21664ECCA7E38B06BB3E027302E7122ABA7E43E359894A28291B0B1DDFAF93A"
+    },
+    {
+        "path":  "cd/3G/bl001.rsc",
+        "size":  1881497,
+        "sha256":  "D8477367597063BC94E129A143F230F1A77F7B397D920BC48CFEBDAFA9CD21B2"
+    },
+    {
+        "path":  "cd/3G/bm001.rsc",
+        "size":  5977521,
+        "sha256":  "96DC211C23FA582452F10BD9B6DBC7F2142759497E62FB54983261D7A7BED0D4"
+    },
+    {
+        "path":  "cd/3G/bo001.rsc",
+        "size":  1719910,
+        "sha256":  "66652C9AF6CE4CDACE85855181680E7A9023A6016BFBA9B8406C1ABD875B65D6"
+    },
+    {
+        "path":  "cd/3G/cd001.rsc",
+        "size":  640136,
+        "sha256":  "2AB4A68B717AC61B2CE5CE3FAEDF466B06D9FACA1BCC8F329587D2F0153A04F4"
+    },
+    {
+        "path":  "cd/3G/cl001.rsc",
+        "size":  3993320,
+        "sha256":  "EAF298A0A55817EBECC8123C04672DC98CB84D642FF60D399FF3E661D5A6B1C8"
+    },
+    {
+        "path":  "cd/3G/cr001.rsc",
+        "size":  5604795,
+        "sha256":  "6DEAE0F2DB84D57A637CC109EB25128FB2B20FAA7C0B4B03F650EF4EF6DB6B4E"
+    },
+    {
+        "path":  "cd/3G/cs001.rsc",
+        "size":  397110,
+        "sha256":  "CD3E5FD448C526586B742C9F25276DE1544DD329CBF6A46609DCC41FE216B815"
+    },
+    {
+        "path":  "cd/3G/cu001.rsc",
+        "size":  5610987,
+        "sha256":  "EDFBFC96A8E890603B975341864C8ECF406D35EF7EAE121FF688D78675284198"
+    },
+    {
+        "path":  "cd/3G/fd001.rsc",
+        "size":  2088890,
+        "sha256":  "9568F6C35733B38FDEEB449B44895B9CD8FB8556D1587755401DF8E4BF9A6B42"
+    },
+    {
+        "path":  "cd/3G/ff001.rsc",
+        "size":  1414712,
+        "sha256":  "BFED9EC42EC79338603BE111BF340875BE68B40D7DA9D40D9762A1F85784791E"
+    },
+    {
+        "path":  "cd/3G/ge001.rsc",
+        "size":  2682895,
+        "sha256":  "78118F840CA86860000E0E91B8E313C2B7F66861B53CDA0AE678AEFE9B636926"
+    },
+    {
+        "path":  "cd/3G/in001.rsc",
+        "size":  603374,
+        "sha256":  "807339052D15FB833E616DDF3E0607B560CA42D5C5750EF9DD9C7AE182431C2B"
+    },
+    {
+        "path":  "cd/3G/kd001.rsc",
+        "size":  1982411,
+        "sha256":  "8807EFE4A13E835A529378E8197AFFAB0A38F71AFE4AD9CB778D6ED38EDCB218"
+    },
+    {
+        "path":  "cd/3G/KEYBOARD.INI",
+        "size":  332,
+        "sha256":  "1684A9F7790CB59311EA1863A597942876D739E2F6D77439F2FC2F3CA5A96AED"
+    },
+    {
+        "path":  "cd/3G/ki001.rsc",
+        "size":  1888485,
+        "sha256":  "E2EB453F90EC827879403A8986B7C5273E1C91A445E7BD6841CA092D9858E84D"
+    },
+    {
+        "path":  "cd/3G/km001.rsc",
+        "size":  2816909,
+        "sha256":  "5E4674C5BE39027C21B1AFA697B20D701FE9EEF1EC34AFB4575713A389DD6A8A"
+    },
+    {
+        "path":  "cd/3G/md001.rsc",
+        "size":  2030444,
+        "sha256":  "C46846A3D1A555BB00185ACF2E67D521C0117CF537A116453CD4EEF07F9E0E72"
+    },
+    {
+        "path":  "cd/3G/me001.rsc",
+        "size":  1475528,
+        "sha256":  "15A6DCE943446B012FDB7EC69477BB251FFB15BE86F77BCB7AE75CCE73594865"
+    },
+    {
+        "path":  "cd/3G/melogo.ini",
+        "size":  108,
+        "sha256":  "49011C813749B04CB6BF3F5D7A3034E5B399EE8A924BF489D2EA4C31CA8C9A21"
+    },
+    {
+        "path":  "cd/3G/MESSAGES.INI",
+        "size":  762,
+        "sha256":  "479D8BD250A6FD7F5108C8F5F2AB694468328A55C2F74396EE4238BFF7B3BC27"
+    },
+    {
+        "path":  "cd/3G/MODULE.INI",
+        "size":  26089,
+        "sha256":  "341243FD7FE8D71D75D4B743D036C55DEC11F230AF80DCD38FCEEBB173A1EAE0"
+    },
+    {
+        "path":  "cd/3G/MODULEL.INI",
+        "size":  58245,
+        "sha256":  "0F5DE3B65EEF3623F23D78826A146E921F835C69547C597B6907F8967F219C0B"
+    },
+    {
+        "path":  "cd/3G/mr001.rsc",
+        "size":  2705222,
+        "sha256":  "A222281F57556A9119E861D9E14255D81B039E8F3B93C12688726058FEA40D66"
+    },
+    {
+        "path":  "cd/3G/pc001.rsc",
+        "size":  1431943,
+        "sha256":  "EBA2F6EDD10F71607E5CBADFECF276B734A6A749BC096328E5F0F8B550CD5057"
+    },
+    {
+        "path":  "cd/3G/pg001.rsc",
+        "size":  2182571,
+        "sha256":  "883333EB7FB74991EB442D5D5687FFB0A235BA299A22D92319830AF952DCB2AE"
+    },
+    {
+        "path":  "cd/3G/pm001.rsc",
+        "size":  2039959,
+        "sha256":  "8B61DEFA559A35A0345912B5F7EEBF3219D61CC82B7BB54490A1025CD12E16A2"
+    },
+    {
+        "path":  "cd/3G/pp001.rsc",
+        "size":  1813458,
+        "sha256":  "663FE3866832217340944528113594DB1DA532AA65DAC8CB468D15CA2E9A58A3"
+    },
+    {
+        "path":  "cd/3G/pr001.rsc",
+        "size":  3413534,
+        "sha256":  "7EE4A8E2540071BCE14471EC855BE0B71D56B352082869644FE07CEF44278A33"
+    },
+    {
+        "path":  "cd/3G/sc001.rsc",
+        "size":  3611089,
+        "sha256":  "0E12DE4FDB19588DE1DF27472954B9F92EC6016F484E60486C060F57E965B4F1"
+    },
+    {
+        "path":  "cd/3G/se001.rsc",
+        "size":  535089,
+        "sha256":  "B7CDC01C28E0C049DD67911754E87F9D087B0F531B9EDE94D9D455DA11F443DE"
+    },
+    {
+        "path":  "cd/3G/sf001.rsc",
+        "size":  1851159,
+        "sha256":  "A766F2602D30E257AC6E61FE50547DF6115A69DF52CFF75A82A9A9799E043E67"
+    },
+    {
+        "path":  "cd/3G/si001.rsc",
+        "size":  252843,
+        "sha256":  "433EBB07CA4FB455088C736F39C3892AAAA0A8EFE23757B8493E45AAA69F1760"
+    },
+    {
+        "path":  "cd/3G/sm001.rsc",
+        "size":  4113760,
+        "sha256":  "F7A654B09DA852F16C93315CAE87A6CA1ED6290A980425A2D7A6B5E02826186D"
+    },
+    {
+        "path":  "cd/3G/Sound.bal",
+        "size":  360095839,
+        "sha256":  "CC3DD27AAFD1D529CB381147E07092686EBC1C7A5D2159380E0E157FA0C4AABC"
+    },
+    {
+        "path":  "cd/3G/SPEECH.INI",
+        "size":  58205,
+        "sha256":  "40FDED7DD61281BB6822D3A7ACABC7B7D3DDC78A71A6792CD103C0DC1C7E97D0"
+    },
+    {
+        "path":  "cd/3G/SPEECH2.INI",
+        "size":  55797,
+        "sha256":  "6C8FC082F1E6845CFE43A745BD6075C03E1EB0103F90224426E1FF1B56664CD9"
+    },
+    {
+        "path":  "cd/3G/ta001.rsc",
+        "size":  7463307,
+        "sha256":  "95362C0F4A8D7D6D184699C7DF7A2E74907179D0792DFACE9CC8DB13849967B3"
+    },
+    {
+        "path":  "cd/3G/ta1001.rsc",
+        "size":  4979798,
+        "sha256":  "2276B54F0EC0321B2C1BFF2E1CA299199E1DA3AA6C5A78FB9012A4E7748919F1"
+    },
+    {
+        "path":  "cd/3G/ta2001.rsc",
+        "size":  4771557,
+        "sha256":  "3B08DDAF85581E9CEFFB09885CA660876B4127201B3E0DB98938EB70F5326DAD"
+    },
+    {
+        "path":  "cd/3G/td001.rsc",
+        "size":  5122313,
+        "sha256":  "47AC4B3273E0FD3EA8B0FDCCB4C0A631402F231A9619B871616B4B4E7B818C43"
+    },
+    {
+        "path":  "cd/3G/td1001.rsc",
+        "size":  359475,
+        "sha256":  "38F350F97B57A6B69C0344F8F50961515057D49130550CCE5FD664C5DD428DF3"
+    },
+    {
+        "path":  "cd/3G/td2001.rsc",
+        "size":  652370,
+        "sha256":  "558ACB874487C5C1CE04C1ACC29E2B6DB391DAB58AA98A285261FCAF088613A7"
+    },
+    {
+        "path":  "cd/3G/td3001.rsc",
+        "size":  317731,
+        "sha256":  "FA59F46CFCD4A0447C1C8B8D7CEDC5B4F22351BF98FB3D3455413BC4EE22C682"
+    },
+    {
+        "path":  "cd/3G/td4001.rsc",
+        "size":  399393,
+        "sha256":  "394CA7B78542345B836484FB189E94F6403C11E76A6091AA3B9CA7EAE55C6369"
+    },
+    {
+        "path":  "cd/3G/td5001.rsc",
+        "size":  403651,
+        "sha256":  "A0528501A8A18C7954567CE4358070240F7CEEF8A59933E2F19ADFB7C24A7899"
+    },
+    {
+        "path":  "cd/3G/td6001.rsc",
+        "size":  377707,
+        "sha256":  "C713A3B05AAA16FBB9AA86A7B77B6968946DDAD2EBA46611D7FB1EBD4B79F74C"
+    },
+    {
+        "path":  "cd/3G/te001.rsc",
+        "size":  2260053,
+        "sha256":  "F7E90E32DC8EECF0D82450239B4A29C71EB35F09BEA75518D90FDB8BCD3125CA"
+    },
+    {
+        "path":  "cd/3G/tf001.rsc",
+        "size":  1474509,
+        "sha256":  "BF335A3566E73A316D8F7890C1B469267F5890EF82908DE8EF814F0D0B5A43CE"
+    },
+    {
+        "path":  "cd/3G/ti001.rsc",
+        "size":  1740534,
+        "sha256":  "287EBA9F75249D815ECDDFD45EB88B9E8D67B644F641505D5EE2D0266D848589"
+    },
+    {
+        "path":  "cd/3G/tm001.rsc",
+        "size":  7431677,
+        "sha256":  "733522D00867BA8CAB319258C31438F70473C0EFD03268B0D248D3ACBBA0165D"
+    },
+    {
+        "path":  "cd/3G/tr001.rsc",
+        "size":  632395,
+        "sha256":  "D98378079F3D4BBC152C6CACC21C52762F0F7DE5E5CB57479024B1A6AEB852D8"
+    },
+    {
+        "path":  "cd/3G/wr001.rsc",
+        "size":  5966520,
+        "sha256":  "FAEF707BD9CA7C399320122202A9FE20E86686960C896A8AEA5DE8FFB28A8610"
+    },
+    {
+        "path":  "hd/3G.CNT",
+        "size":  5151,
+        "sha256":  "6A060BACD8B12CB667D3F44545C8F05841C123585154406BCE2A543E70C3033B"
+    },
+    {
+        "path":  "hd/3g.exe",
+        "size":  1108480,
+        "sha256":  "6C7FF278C39ACFADD5611F7EE996F8336F53A9EE52DDE34A4DAEC00CFB8936DD"
+    },
+    {
+        "path":  "hd/3G.GID",
+        "size":  8628,
+        "sha256":  "C8B4A221AAE3383AC50099E1C8FB9A870318AFA555D12CF6DDC615B23F3676B4"
+    },
+    {
+        "path":  "hd/3G.HLP",
+        "size":  558775,
+        "sha256":  "AE6BAF01A587A021394F964AF07F8DBFB081656BF3B3448B2911AF585CEEBA26"
+    },
+    {
+        "path":  "hd/3G.INI",
+        "size":  86,
+        "sha256":  "AE5BEED00AACB7E4914988E5FB8F60164EA886AD17884D3A08D28EAA4E0E75EE"
+    },
+    {
+        "path":  "hd/3G.ORI",
+        "size":  966656,
+        "sha256":  "63F72788226CA073F6C813008FF3FF889E2C8D93F10179E8CCF994C316CFDC03"
+    },
+    {
+        "path":  "hd/ag001.rsc",
+        "size":  2487086,
+        "sha256":  "3EA387951AAB6C4BEA60B5C2922565C003D6F4F7B83F515D3270286CFB286DF0"
+    },
+    {
+        "path":  "hd/ag002.rsc",
+        "size":  16429,
+        "sha256":  "7F250E996878384BCCEF82A1D79F8424EFCA1DFE0D7A5A7C1B6BE12167CF8358"
+    },
+    {
+        "path":  "hd/BH001.MID",
+        "size":  37459,
+        "sha256":  "C2E4B002C8A8734C1354F64A63C13961403F1903FC1BE5C0DA3278DA794B07E6"
+    },
+    {
+        "path":  "hd/bh001.rsc",
+        "size":  860615,
+        "sha256":  "BFFF9109E9EFF491C1C5DC080DBFABE740CAD64DC595587CBF571A001B198664"
+    },
+    {
+        "path":  "hd/BH002.MID",
+        "size":  39629,
+        "sha256":  "25D51976BDF32C83CE421396BDAB1AEFA3060D20DAF024911295809E43B8A21B"
+    },
+    {
+        "path":  "hd/bh002.rsc",
+        "size":  1245667,
+        "sha256":  "CF2E8FE5AFDA725626FDD2A05EB0CC293053CD88E08E37665F5022E0CC805A6C"
+    },
+    {
+        "path":  "hd/BH003.MID",
+        "size":  44254,
+        "sha256":  "9AAE9F260D024D0AF2110EBB8F071B13BE074A789EDABCA3911DBF789D153DC9"
+    },
+    {
+        "path":  "hd/bi001.rsc",
+        "size":  1121849,
+        "sha256":  "E21664ECCA7E38B06BB3E027302E7122ABA7E43E359894A28291B0B1DDFAF93A"
+    },
+    {
+        "path":  "hd/bi002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/BIOLAUN.MID",
+        "size":  5556,
+        "sha256":  "60F4E6764A0AAE11A58DE357983895FC26D4B0A60DCD3A745940F0702C0EA8C2"
+    },
+    {
+        "path":  "hd/bl001.rsc",
+        "size":  1881497,
+        "sha256":  "D8477367597063BC94E129A143F230F1A77F7B397D920BC48CFEBDAFA9CD21B2"
+    },
+    {
+        "path":  "hd/bl002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/bm001.rsc",
+        "size":  5977521,
+        "sha256":  "96DC211C23FA582452F10BD9B6DBC7F2142759497E62FB54983261D7A7BED0D4"
+    },
+    {
+        "path":  "hd/bm002.rsc",
+        "size":  11222,
+        "sha256":  "5EB8EE6D3F6BA31808DACBD4BBE1392172C255549243600A9D1EF5512A975224"
+    },
+    {
+        "path":  "hd/BM1.MID",
+        "size":  8824,
+        "sha256":  "B74D4708F6716D956E2671ACC478AD325BA5147DBFA18AFBAA5FEB21280D83C3"
+    },
+    {
+        "path":  "hd/BM2.MID",
+        "size":  13623,
+        "sha256":  "9C1253EE21FB0D4B05B7146622440CE7337C23219D796E80578E6CFBEDC3851B"
+    },
+    {
+        "path":  "hd/BO001.MID",
+        "size":  17402,
+        "sha256":  "34238BC3A60EE692C21FA8E2F41D3349EEDE10E52E8F0F963B6285D2056C25BD"
+    },
+    {
+        "path":  "hd/bo001.rsc",
+        "size":  1719910,
+        "sha256":  "66652C9AF6CE4CDACE85855181680E7A9023A6016BFBA9B8406C1ABD875B65D6"
+    },
+    {
+        "path":  "hd/BO002.MID",
+        "size":  11670,
+        "sha256":  "945EE9E986A1E3DBCC2B310D715C78CFC5F366DA108953A77218AB596EF03B63"
+    },
+    {
+        "path":  "hd/BO003.MID",
+        "size":  12030,
+        "sha256":  "C24417DA2B2F0C395D2D5CD1EC07691B52299BB63F511C89770C4EF239C1B38E"
+    },
+    {
+        "path":  "hd/cd001.rsc",
+        "size":  640136,
+        "sha256":  "2AB4A68B717AC61B2CE5CE3FAEDF466B06D9FACA1BCC8F329587D2F0153A04F4"
+    },
+    {
+        "path":  "hd/cd002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/cl001.rsc",
+        "size":  3993320,
+        "sha256":  "EAF298A0A55817EBECC8123C04672DC98CB84D642FF60D399FF3E661D5A6B1C8"
+    },
+    {
+        "path":  "hd/cl002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/cr001.rsc",
+        "size":  5604795,
+        "sha256":  "6DEAE0F2DB84D57A637CC109EB25128FB2B20FAA7C0B4B03F650EF4EF6DB6B4E"
+    },
+    {
+        "path":  "hd/cr002.rsc",
+        "size":  172316,
+        "sha256":  "B5F0B56376B3473EC61C56E8F042976BEB7CB767FB136C69E57D4C0B79F0405E"
+    },
+    {
+        "path":  "hd/cr2002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/cs001.rsc",
+        "size":  397110,
+        "sha256":  "CD3E5FD448C526586B742C9F25276DE1544DD329CBF6A46609DCC41FE216B815"
+    },
+    {
+        "path":  "hd/cs002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/cu001.rsc",
+        "size":  5610987,
+        "sha256":  "EDFBFC96A8E890603B975341864C8ECF406D35EF7EAE121FF688D78675284198"
+    },
+    {
+        "path":  "hd/cu002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/FD.MID",
+        "size":  12408,
+        "sha256":  "DD2AA10F314A1161AE09C61C57E97228CC744EA07419999A3471AF7CD69932F8"
+    },
+    {
+        "path":  "hd/fd001.rsc",
+        "size":  2088890,
+        "sha256":  "9568F6C35733B38FDEEB449B44895B9CD8FB8556D1587755401DF8E4BF9A6B42"
+    },
+    {
+        "path":  "hd/fd002.rsc",
+        "size":  103352,
+        "sha256":  "964E33FE01DC46A5840B14A87C0ED6D1622386E4526DF5DF3DD819273AFBD986"
+    },
+    {
+        "path":  "hd/ff001.rsc",
+        "size":  1414712,
+        "sha256":  "BFED9EC42EC79338603BE111BF340875BE68B40D7DA9D40D9762A1F85784791E"
+    },
+    {
+        "path":  "hd/ff002.rsc",
+        "size":  263101,
+        "sha256":  "4596005DB2E5869821E459FC41B6AD596795E5E15B6BEED45D2F937C8912BAFC"
+    },
+    {
+        "path":  "hd/GE.MID",
+        "size":  6989,
+        "sha256":  "19AF1016667E397B5190216B3EF47121F89C5ED673B6FB43A76FD679326A8C54"
+    },
+    {
+        "path":  "hd/ge001.rsc",
+        "size":  2682895,
+        "sha256":  "78118F840CA86860000E0E91B8E313C2B7F66861B53CDA0AE678AEFE9B636926"
+    },
+    {
+        "path":  "hd/ge002.rsc",
+        "size":  407197,
+        "sha256":  "CDDCA56B2DE3C783E210CC950EADDB1A3A85E09E43B0C7E3DDD2EDAC8309FA1D"
+    },
+    {
+        "path":  "hd/in001.rsc",
+        "size":  603374,
+        "sha256":  "807339052D15FB833E616DDF3E0607B560CA42D5C5750EF9DD9C7AE182431C2B"
+    },
+    {
+        "path":  "hd/in002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/KD.MID",
+        "size":  14283,
+        "sha256":  "D5218056F56ACAA32C13C314AE961D0FE21F2B12D885A40E076FEE75AC9FA995"
+    },
+    {
+        "path":  "hd/kd001.rsc",
+        "size":  1982411,
+        "sha256":  "8807EFE4A13E835A529378E8197AFFAB0A38F71AFE4AD9CB778D6ED38EDCB218"
+    },
+    {
+        "path":  "hd/kd002.rsc",
+        "size":  87117,
+        "sha256":  "F80CA80C572E62AB6F862F6800625D935DDD136F4FAD12CE427597BD915F5EDF"
+    },
+    {
+        "path":  "hd/KEYBOARD.INI",
+        "size":  332,
+        "sha256":  "1684A9F7790CB59311EA1863A597942876D739E2F6D77439F2FC2F3CA5A96AED"
+    },
+    {
+        "path":  "hd/KI.MID",
+        "size":  11367,
+        "sha256":  "03CD964C4182AB7A7C2FDCFC1A49CF1920BC825AD9AA21BE658B274AEC516604"
+    },
+    {
+        "path":  "hd/ki001.rsc",
+        "size":  1888485,
+        "sha256":  "E2EB453F90EC827879403A8986B7C5273E1C91A445E7BD6841CA092D9858E84D"
+    },
+    {
+        "path":  "hd/ki002.rsc",
+        "size":  19345,
+        "sha256":  "A2C56D17F2C6433DE21ABCB8E4263BDB7D3ECC5F1A0A4079B7C40284C8B7D680"
+    },
+    {
+        "path":  "hd/KITCHMA1.MID",
+        "size":  6250,
+        "sha256":  "C5FF2C69ED9682075DDC366FC0591D27ACB70CC0B15482025F6B122AB423DDFC"
+    },
+    {
+        "path":  "hd/KITCHMA2.MID",
+        "size":  9430,
+        "sha256":  "A347DA93D6E04BFDB9F58183EBFDC83A6BDCD838867A715148E54F11621ACE4D"
+    },
+    {
+        "path":  "hd/KITCHMA3.MID",
+        "size":  11238,
+        "sha256":  "AB20F1C63C58D98C3FD62AA557149363EC6C1F6A47E892BBCB966156E48CB32C"
+    },
+    {
+        "path":  "hd/km001.rsc",
+        "size":  2816909,
+        "sha256":  "5E4674C5BE39027C21B1AFA697B20D701FE9EEF1EC34AFB4575713A389DD6A8A"
+    },
+    {
+        "path":  "hd/km002.rsc",
+        "size":  366953,
+        "sha256":  "66A0F52A2C1419C78F8AB82FA62FAE25E3770D79C9BF9A06CF740F6464C49780"
+    },
+    {
+        "path":  "hd/MD.MID",
+        "size":  17740,
+        "sha256":  "019E952369831CAF1F97A3356B8FEBD139AF789049942406FBAFFCE53F695696"
+    },
+    {
+        "path":  "hd/md001.rsc",
+        "size":  2030444,
+        "sha256":  "C46846A3D1A555BB00185ACF2E67D521C0117CF537A116453CD4EEF07F9E0E72"
+    },
+    {
+        "path":  "hd/md002.rsc",
+        "size":  108320,
+        "sha256":  "76489033F9905FB40D1882A7F2E448DEE75248CFF497A0FF852B9FEDBDB32871"
+    },
+    {
+        "path":  "hd/me001.rsc",
+        "size":  1475528,
+        "sha256":  "15A6DCE943446B012FDB7EC69477BB251FFB15BE86F77BCB7AE75CCE73594865"
+    },
+    {
+        "path":  "hd/me002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/melogo.ini",
+        "size":  108,
+        "sha256":  "49011C813749B04CB6BF3F5D7A3034E5B399EE8A924BF489D2EA4C31CA8C9A21"
+    },
+    {
+        "path":  "hd/MESSAGES.INI",
+        "size":  762,
+        "sha256":  "C7F85A57D7A3EECB5A95CBCD312AB96BD4A21BE6F6E14C6C15F3541D611FA122"
+    },
+    {
+        "path":  "hd/MODULE.INI",
+        "size":  26089,
+        "sha256":  "341243FD7FE8D71D75D4B743D036C55DEC11F230AF80DCD38FCEEBB173A1EAE0"
+    },
+    {
+        "path":  "hd/MODULEL.INI",
+        "size":  58245,
+        "sha256":  "0F5DE3B65EEF3623F23D78826A146E921F835C69547C597B6907F8967F219C0B"
+    },
+    {
+        "path":  "hd/mr001.rsc",
+        "size":  2705222,
+        "sha256":  "A222281F57556A9119E861D9E14255D81B039E8F3B93C12688726058FEA40D66"
+    },
+    {
+        "path":  "hd/mr002.rsc",
+        "size":  219774,
+        "sha256":  "6BF3C15E801C75A019E997276A040E29A65A237F06BC61217D537B04C0960267"
+    },
+    {
+        "path":  "hd/mr2002.rsc",
+        "size":  400,
+        "sha256":  "B6D8677D6D0B2CA123B8DEAAD5B007921E60FBF711DFB22427208BC628AD49AE"
+    },
+    {
+        "path":  "hd/pc001.rsc",
+        "size":  1431943,
+        "sha256":  "EBA2F6EDD10F71607E5CBADFECF276B734A6A749BC096328E5F0F8B550CD5057"
+    },
+    {
+        "path":  "hd/pc002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/pg001.rsc",
+        "size":  2182571,
+        "sha256":  "883333EB7FB74991EB442D5D5687FFB0A235BA299A22D92319830AF952DCB2AE"
+    },
+    {
+        "path":  "hd/pg002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/pm001.rsc",
+        "size":  2039959,
+        "sha256":  "8B61DEFA559A35A0345912B5F7EEBF3219D61CC82B7BB54490A1025CD12E16A2"
+    },
+    {
+        "path":  "hd/pm002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/PMDESERT.MID",
+        "size":  5590,
+        "sha256":  "96D373104E96368B17AE5BCC0DD73BD0B11CB3DA08D7C377AE8DD3759EA86A52"
+    },
+    {
+        "path":  "hd/PMHAUNT.MID",
+        "size":  5500,
+        "sha256":  "DF9801D3096E19DE1F26F8BC59DB96B7469709F3A6DB40C4B14D8CF4B5272EB1"
+    },
+    {
+        "path":  "hd/PMPASTRL.MID",
+        "size":  4465,
+        "sha256":  "187CAEA251F4D7931A77377FF3EA551605C695F1B2DEC9592CECA21948D0AB14"
+    },
+    {
+        "path":  "hd/PMSCIFI.MID",
+        "size":  7567,
+        "sha256":  "BBDF93AEF13C2D68A37FE6634FFD6B3DE22E46C049B2E0303328C647C2B82A5E"
+    },
+    {
+        "path":  "hd/PMTOON.MID",
+        "size":  10406,
+        "sha256":  "3D2A7C1DC7A19299135BD79C1CADF930309BBDA2447D1D1E17A5740FB3A11962"
+    },
+    {
+        "path":  "hd/PMWATER.MID",
+        "size":  26215,
+        "sha256":  "3AF547AB25548CE38FBC796AE79ABC1753E59D768E265E0D4B858F840A755388"
+    },
+    {
+        "path":  "hd/pp001.rsc",
+        "size":  1813458,
+        "sha256":  "663FE3866832217340944528113594DB1DA532AA65DAC8CB468D15CA2E9A58A3"
+    },
+    {
+        "path":  "hd/pp002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/PP1.MID",
+        "size":  6583,
+        "sha256":  "1B25A1B14E5FF766237E7773F63BF8B906969BD5D2D19BD1FA779941981D4D6A"
+    },
+    {
+        "path":  "hd/PP2.MID",
+        "size":  6583,
+        "sha256":  "22AE6B446A82BAE8C615069CBBB059CB4D49822D67056119AD55530B462B7B84"
+    },
+    {
+        "path":  "hd/PP3.MID",
+        "size":  6583,
+        "sha256":  "1B92B598B9228C065481D13EB7ACF0F4D3941C956635C52FBD29A56F57504146"
+    },
+    {
+        "path":  "hd/pr001.rsc",
+        "size":  3413534,
+        "sha256":  "7EE4A8E2540071BCE14471EC855BE0B71D56B352082869644FE07CEF44278A33"
+    },
+    {
+        "path":  "hd/pr002.rsc",
+        "size":  48129,
+        "sha256":  "EC4C4FB6E68B7B61829062AB8B797F4076123AD0609C094081E7CEDDE558F92E"
+    },
+    {
+        "path":  "hd/sc001.rsc",
+        "size":  3611089,
+        "sha256":  "0E12DE4FDB19588DE1DF27472954B9F92EC6016F484E60486C060F57E965B4F1"
+    },
+    {
+        "path":  "hd/sc002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/se001.rsc",
+        "size":  535089,
+        "sha256":  "B7CDC01C28E0C049DD67911754E87F9D087B0F531B9EDE94D9D455DA11F443DE"
+    },
+    {
+        "path":  "hd/se002.rsc",
+        "size":  14401,
+        "sha256":  "E08915809C6C977840B103B5E74448DADEFBD9793AE2DFA81AD5B0302A7A4A2A"
+    },
+    {
+        "path":  "hd/sf001.rsc",
+        "size":  1851159,
+        "sha256":  "A766F2602D30E257AC6E61FE50547DF6115A69DF52CFF75A82A9A9799E043E67"
+    },
+    {
+        "path":  "hd/sf002.rsc",
+        "size":  409111,
+        "sha256":  "7AD554F6099D2EE774D6457D1DA93130B9210243B72918F3214AB7B89E20A1B5"
+    },
+    {
+        "path":  "hd/SHRINK.MID",
+        "size":  46031,
+        "sha256":  "BBFCE71FCA3E02D7F2F2317BFC30AC371E71B1364FBF45C0C4E1AE686020FA33"
+    },
+    {
+        "path":  "hd/si001.rsc",
+        "size":  252843,
+        "sha256":  "433EBB07CA4FB455088C736F39C3892AAAA0A8EFE23757B8493E45AAA69F1760"
+    },
+    {
+        "path":  "hd/si002.rsc",
+        "size":  7761,
+        "sha256":  "4B996B7EADD1E2C37B4289B20FFAAC0920D5904BF797E103FA51E2E57B6095F3"
+    },
+    {
+        "path":  "hd/sm001.rsc",
+        "size":  4113760,
+        "sha256":  "F7A654B09DA852F16C93315CAE87A6CA1ED6290A980425A2D7A6B5E02826186D"
+    },
+    {
+        "path":  "hd/sm002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/SMACKW32.DLL",
+        "size":  86528,
+        "sha256":  "50279571BF8520DE80DA07F07EAB5C83E47DDA16FFBDFFC96D153BD6F90AF0F2"
+    },
+    {
+        "path":  "hd/Sound.bal",
+        "size":  360095839,
+        "sha256":  "CC3DD27AAFD1D529CB381147E07092686EBC1C7A5D2159380E0E157FA0C4AABC"
+    },
+    {
+        "path":  "hd/SPEECH.INI",
+        "size":  58205,
+        "sha256":  "40FDED7DD61281BB6822D3A7ACABC7B7D3DDC78A71A6792CD103C0DC1C7E97D0"
+    },
+    {
+        "path":  "hd/SPEECH2.INI",
+        "size":  55797,
+        "sha256":  "6C8FC082F1E6845CFE43A745BD6075C03E1EB0103F90224426E1FF1B56664CD9"
+    },
+    {
+        "path":  "hd/STARCHRT.MID",
+        "size":  6956,
+        "sha256":  "4B3F07932D1830E59168DFA989BA6AF306E9BCB3A3AD8D719FDE854CFF97F798"
+    },
+    {
+        "path":  "hd/TA001.MID",
+        "size":  16129,
+        "sha256":  "38963F2D828667846462F3E75E3415BC30B992F3B3D8D939D36924E7262424F7"
+    },
+    {
+        "path":  "hd/ta001.rsc",
+        "size":  7463307,
+        "sha256":  "95362C0F4A8D7D6D184699C7DF7A2E74907179D0792DFACE9CC8DB13849967B3"
+    },
+    {
+        "path":  "hd/TA002.MID",
+        "size":  13722,
+        "sha256":  "D93767946A26B0603AC76B5E63BC9052E10D1E9A67ACFE2C5AF275F4D7CCB0BC"
+    },
+    {
+        "path":  "hd/ta002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/TA003.MID",
+        "size":  15243,
+        "sha256":  "67C41F1390A5DA0D43D5DAB8635D17FF27D5953D6027150259374C0C0AB9DA0C"
+    },
+    {
+        "path":  "hd/ta1001.rsc",
+        "size":  4979798,
+        "sha256":  "2276B54F0EC0321B2C1BFF2E1CA299199E1DA3AA6C5A78FB9012A4E7748919F1"
+    },
+    {
+        "path":  "hd/ta1002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/ta2001.rsc",
+        "size":  4771557,
+        "sha256":  "3B08DDAF85581E9CEFFB09885CA660876B4127201B3E0DB98938EB70F5326DAD"
+    },
+    {
+        "path":  "hd/ta2002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tas1002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tas2002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tas3002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tas4002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tas5002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tas6002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tas7002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/td001.rsc",
+        "size":  5122313,
+        "sha256":  "47AC4B3273E0FD3EA8B0FDCCB4C0A631402F231A9619B871616B4B4E7B818C43"
+    },
+    {
+        "path":  "hd/td002.rsc",
+        "size":  390882,
+        "sha256":  "15E3180E15D2EE05FFEC354AF13FC5921788D9B347FC3476900B90C4D7FF3A4D"
+    },
+    {
+        "path":  "hd/td1001.rsc",
+        "size":  359475,
+        "sha256":  "38F350F97B57A6B69C0344F8F50961515057D49130550CCE5FD664C5DD428DF3"
+    },
+    {
+        "path":  "hd/td1002.rsc",
+        "size":  36,
+        "sha256":  "0F06D428BEF8AE310BEF2C3314D159428D818BE49A60C08C77A301FC58669A41"
+    },
+    {
+        "path":  "hd/td2001.rsc",
+        "size":  652370,
+        "sha256":  "558ACB874487C5C1CE04C1ACC29E2B6DB391DAB58AA98A285261FCAF088613A7"
+    },
+    {
+        "path":  "hd/td2002.rsc",
+        "size":  36,
+        "sha256":  "0F06D428BEF8AE310BEF2C3314D159428D818BE49A60C08C77A301FC58669A41"
+    },
+    {
+        "path":  "hd/td3001.rsc",
+        "size":  317731,
+        "sha256":  "FA59F46CFCD4A0447C1C8B8D7CEDC5B4F22351BF98FB3D3455413BC4EE22C682"
+    },
+    {
+        "path":  "hd/td3002.rsc",
+        "size":  36,
+        "sha256":  "0F06D428BEF8AE310BEF2C3314D159428D818BE49A60C08C77A301FC58669A41"
+    },
+    {
+        "path":  "hd/td4001.rsc",
+        "size":  399393,
+        "sha256":  "394CA7B78542345B836484FB189E94F6403C11E76A6091AA3B9CA7EAE55C6369"
+    },
+    {
+        "path":  "hd/td4002.rsc",
+        "size":  36,
+        "sha256":  "0F06D428BEF8AE310BEF2C3314D159428D818BE49A60C08C77A301FC58669A41"
+    },
+    {
+        "path":  "hd/td5001.rsc",
+        "size":  403651,
+        "sha256":  "A0528501A8A18C7954567CE4358070240F7CEEF8A59933E2F19ADFB7C24A7899"
+    },
+    {
+        "path":  "hd/td5002.rsc",
+        "size":  36,
+        "sha256":  "0F06D428BEF8AE310BEF2C3314D159428D818BE49A60C08C77A301FC58669A41"
+    },
+    {
+        "path":  "hd/td6001.rsc",
+        "size":  377707,
+        "sha256":  "C713A3B05AAA16FBB9AA86A7B77B6968946DDAD2EBA46611D7FB1EBD4B79F74C"
+    },
+    {
+        "path":  "hd/td6002.rsc",
+        "size":  36,
+        "sha256":  "0F06D428BEF8AE310BEF2C3314D159428D818BE49A60C08C77A301FC58669A41"
+    },
+    {
+        "path":  "hd/te001.rsc",
+        "size":  2260053,
+        "sha256":  "F7E90E32DC8EECF0D82450239B4A29C71EB35F09BEA75518D90FDB8BCD3125CA"
+    },
+    {
+        "path":  "hd/te002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/TELESCOP.MID",
+        "size":  5879,
+        "sha256":  "ECF1DB923C861954AB242F248509246AE5CD67C57C3AEDD9A34DA96BB65D88FF"
+    },
+    {
+        "path":  "hd/tf001.rsc",
+        "size":  1474509,
+        "sha256":  "BF335A3566E73A316D8F7890C1B469267F5890EF82908DE8EF814F0D0B5A43CE"
+    },
+    {
+        "path":  "hd/tf002.rsc",
+        "size":  408977,
+        "sha256":  "4EE40AC20F04602D9BB6BC5AA2CA7AC76A89B5510764E4FBB4C20EB8E408A5B9"
+    },
+    {
+        "path":  "hd/ti001.rsc",
+        "size":  1740534,
+        "sha256":  "287EBA9F75249D815ECDDFD45EB88B9E8D67B644F641505D5EE2D0266D848589"
+    },
+    {
+        "path":  "hd/ti002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/tm001.rsc",
+        "size":  7431677,
+        "sha256":  "733522D00867BA8CAB319258C31438F70473C0EFD03268B0D248D3ACBBA0165D"
+    },
+    {
+        "path":  "hd/tm002.rsc",
+        "size":  3149,
+        "sha256":  "C22CFCC7E24B367D4E29BEE4FA87F1EF816D6E0202F9C08683B298449EF77F6D"
+    },
+    {
+        "path":  "hd/tr001.rsc",
+        "size":  632395,
+        "sha256":  "D98378079F3D4BBC152C6CACC21C52762F0F7DE5E5CB57479024B1A6AEB852D8"
+    },
+    {
+        "path":  "hd/tr002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/WGM32.TXT",
+        "size":  0,
+        "sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "path":  "hd/WING32.DLL",
+        "size":  93184,
+        "sha256":  "3B85879F38108E49B93A414CCA78D7F91575D3A7C692DC4D995B2662974AE4DE"
+    },
+    {
+        "path":  "hd/WING32.legacy.dll",
+        "size":  12800,
+        "sha256":  "EDD26762E7DFD37C5A4306698C77D1A0C4C1F7E734946B3B82C534FAC13065F6"
+    },
+    {
+        "path":  "hd/wr001.rsc",
+        "size":  5966520,
+        "sha256":  "FAEF707BD9CA7C399320122202A9FE20E86686960C896A8AEA5DE8FFB28A8610"
+    },
+    {
+        "path":  "hd/wr002.rsc",
+        "size":  39,
+        "sha256":  "8412EC075A5297113B0A77146CC96E7BD842C7A004E12C4F5664503E94A99075"
+    },
+    {
+        "path":  "hd/WR1.MID",
+        "size":  6094,
+        "sha256":  "BDE946E4D64A60266FE171CDC33E4BAB8E71010EBE2BEAE2A87415382613A40C"
+    },
+    {
+        "path":  "hd/WR2.MID",
+        "size":  7933,
+        "sha256":  "867EECE23EE3460CAEF72101A72D0FDE572A1D85C791CA51ABBAF2158EA0C242"
+    },
+    {
+        "path":  "hd/WR3.MID",
+        "size":  11506,
+        "sha256":  "E869F99CE1A584A43176261A1458B6719DF195D1BE7A600B8E91B121D55ADD06"
+    },
+    {
+        "path":  "hd/WSOUND32.DLL",
+        "size":  155136,
+        "sha256":  "48C5CCDF926246C27700BC6F2E31654204525FBAF99A65D8E13EC60B9299F4BD"
+    },
+    {
+        "path":  "Play Trampolin 5.exe",
+        "size":  148992,
+        "sha256":  "9F6E951B296B1D192BF6967D24B6D5FFFFF912581513DA95EAFB9DA165A525A5"
+    }
+]

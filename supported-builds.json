@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "release": "1.0.1",
+  "validated_on": "Windows 10 x64",
+  "editions": [
+    {
+      "id": "spanish-trampolin-5",
+      "title": "Trampolin Educacion Primaria 5 Curso",
+      "executable": "SUPPORT/W32/3G.EXE",
+      "executable_sha256": "6C7FF278C39ACFADD5611F7EE996F8336F53A9EE52DDE34A4DAEC00CFB8936DD",
+      "sound_sha256": "48C5CCDF926246C27700BC6F2E31654204525FBAF99A65D8E13EC60B9299F4BD",
+      "status": "runtime-validated"
+    },
+    {
+      "id": "english-jumpstart-3rd-grade",
+      "title": "JumpStart 3rd Grade",
+      "executable": "SUPPORT/W32/3G.EXE",
+      "executable_sha256": "63F72788226CA073F6C813008FF3FF889E2C8D93F10179E8CCF994C316CFDC03",
+      "sound_sha256": "D1867FB71B62DAAC6A1FB5A9A50864074279375FB64D10DB602F33C3E1EE41FF",
+      "status": "runtime-validated"
+    }
+  ],
+  "original_wing_sha256": "BB1F552E2525E784B61D2FE0CA23F3402ADEC05AA5F92F4C1DFBEA3966A84CBB",
+  "patched_local_wing_sha256": "EDD26762E7DFD37C5A4306698C77D1A0C4C1F7E734946B3B82C534FAC13065F6",
+  "proxy_sha256": "3B85879F38108E49B93A414CCA78D7F91575D3A7C692DC4D995B2662974AE4DE",
+  "launcher_sha256": "9F6E951B296B1D192BF6967D24B6D5FFFFF912581513DA95EAFB9DA165A525A5"
+}

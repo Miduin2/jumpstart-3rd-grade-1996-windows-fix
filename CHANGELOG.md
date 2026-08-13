@@ -7,6 +7,9 @@
 - Adds `PORTING_OTHER_EDITIONS.md` with layouts, safety boundaries, an
   experimental workflow, and direct guidance for coding assistants adapting
   another language or build.
+- Adds a prominent latest-release download path and a concrete successful
+  output example for first-time GitHub users.
+- Adds a concise Spanish installation guide in `README.es.md`.
 
 ## 1.0.1 — 2026-08-13
 

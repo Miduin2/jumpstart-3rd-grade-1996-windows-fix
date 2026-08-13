@@ -1,5 +1,13 @@
 # Trampolín 5 / JumpStart 3rd Grade — modern Windows patch
 
+[Leer en español](README.es.md)
+
+> **No technical knowledge is required.** Download the
+> [latest stable release](https://github.com/Miduin2/jumpstart-3rd-grade-1996-windows-fix/releases/latest),
+> expand **Assets**, download `Trampolin5-JumpStart3rdGrade-WindowsFix_1.0.1.zip`,
+> extract it, mount your original CD or ISO, and double-click
+> `Build portable game.cmd`.
+
 This unofficial, content-free compatibility patch builds a portable copy of
 either supported game from a user-owned original CD:
 
@@ -29,8 +37,10 @@ the `WSOUND32.DLL` shutdown hang seen on modern Windows.
 
 ## Build your portable copy
 
-1. Extract this patch to a normal writable folder.
-2. Insert the original CD, or right-click its `.iso` file and choose **Mount**.
+1. Open the [latest release](https://github.com/Miduin2/jumpstart-3rd-grade-1996-windows-fix/releases/latest).
+   Under **Assets**, download the named patch ZIP—not either automatically
+   generated `Source code` archive—and extract it to a normal writable folder.
+2. Insert your original CD, or right-click its `.iso` file and choose **Mount**.
    Windows will show a new drive under **This PC**, such as `F:`. An unmodified
    complete extraction of the CD also works.
 3. Double-click `Build portable game.cmd` and answer its two prompts. When it
@@ -38,6 +48,22 @@ the `WSOUND32.DLL` shutdown hang seen on modern Windows.
 
 The CD root is the location that directly contains the `3G` and `SUPPORT`
 folders. It is **not** the folder where the `.iso` file is stored.
+
+### What you should see
+
+When construction succeeds, the window remains open and ends with text like:
+
+```text
+Portable edition built and verified: JumpStart 3rd Grade
+Output: C:\Users\YourName\Games\JumpStart3
+Launcher: Play JumpStart 3rd Grade.exe
+
+Construction completed successfully.
+```
+
+Open the folder shown after `Output:` and double-click the launcher named on
+the next line: `Play JumpStart 3rd Grade.exe` or `Play Trampolin 5.exe`.
+The original CD is no longer required after construction.
 
 ### PowerShell alternative
 
@@ -53,7 +79,7 @@ verifies known hashes, reconstructs the files selected by the old installer,
 and verifies the complete output manifest.
 
 Start the result with `Play Trampolin 5.exe` or
-`Play JumpStart 3rd Grade.exe`. The CD is not required after construction.
+`Play JumpStart 3rd Grade.exe`.
 
 ## Uninstall
 

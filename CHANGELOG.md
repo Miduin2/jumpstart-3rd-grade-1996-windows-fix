@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 1.0.2 — 2026-08-14
 
 - Clarifies on the project front page that both validated editions share one
   runtime compatibility core while their CD reconstruction recipes differ.
@@ -10,6 +10,8 @@
 - Adds a prominent latest-release download path and a concrete successful
   output example for first-time GitHub users.
 - Adds a concise Spanish installation guide in `README.es.md`.
+- Packages all current documentation in the downloadable release ZIP while
+  retaining the exact runtime binaries and builder from 1.0.1.
 
 ## 1.0.1 — 2026-08-13
 

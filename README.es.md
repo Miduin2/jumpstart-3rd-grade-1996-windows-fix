@@ -10,7 +10,7 @@ paquete no contiene el juego, sus recursos ni una imagen de disco.
 
 1. Abre la [última versión estable](https://github.com/Miduin2/jumpstart-3rd-grade-1996-windows-fix/releases/latest).
 2. Despliega **Assets** y descarga
-   `Trampolin5-JumpStart3rdGrade-WindowsFix_1.0.1.zip`. No descargues los ZIP
+   `Trampolin5-JumpStart3rdGrade-WindowsFix_1.0.2.zip`. No descargues los ZIP
    automáticos llamados `Source code`.
 3. Descomprime el parche en una carpeta normal.
 4. Inserta tu CD original o haz clic derecho sobre tu archivo `.iso` y elige

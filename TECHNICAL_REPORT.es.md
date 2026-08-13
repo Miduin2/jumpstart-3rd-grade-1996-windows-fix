@@ -198,3 +198,12 @@ Fuentes internas principales:
 - lanzador y aplicador: `src/trampolin5launcher`;
 - reconstrucción final: `workspace/repro-tests/trampolin-jumpstart-clean-rebuild-v011`;
 - salida pública simulada: `workspace/repro-tests/trampolin-jumpstart-public-applicator-v002`.
+
+## Actualización documental 1.0.2
+
+La versión 1.0.2 conserva sin cambios el constructor, el proxy y el lanzador
+validados en 1.0.1. Su finalidad es sincronizar el ZIP descargable con la
+documentación posterior de `main`: recorrido inicial simplificado, guía breve
+en español y adaptación experimental de otras ediciones. La 1.0.1 permanece
+publicada e inmutable como referencia histórica del artefacto probado
+manualmente.

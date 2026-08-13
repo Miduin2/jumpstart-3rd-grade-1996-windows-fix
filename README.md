@@ -4,7 +4,7 @@
 
 > **No technical knowledge is required.** Download the
 > [latest stable release](https://github.com/Miduin2/jumpstart-3rd-grade-1996-windows-fix/releases/latest),
-> expand **Assets**, download `Trampolin5-JumpStart3rdGrade-WindowsFix_1.0.1.zip`,
+> expand **Assets**, download `Trampolin5-JumpStart3rdGrade-WindowsFix_1.0.2.zip`,
 > extract it, mount your original CD or ISO, and double-click
 > `Build portable game.cmd`.
 

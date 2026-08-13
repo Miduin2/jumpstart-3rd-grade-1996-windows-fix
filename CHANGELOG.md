@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+- Clarifies on the project front page that both validated editions share one
+  runtime compatibility core while their CD reconstruction recipes differ.
+- Adds `PORTING_OTHER_EDITIONS.md` with layouts, safety boundaries, an
+  experimental workflow, and direct guidance for coding assistants adapting
+  another language or build.
+
 ## 1.0.1 — 2026-08-13
 
 - Copies hidden files from mounted optical media, including the Spanish

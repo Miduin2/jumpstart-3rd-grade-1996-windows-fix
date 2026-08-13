@@ -15,6 +15,15 @@ the `WSOUND32.DLL` shutdown hang seen on modern Windows.
 > initial player-selection area. Windows 11 and unusual audio drivers remain
 > valid targets for user reports but are not yet formally validated.
 
+> **Other language editions:** the compatibility core is not inherently tied
+> to Spanish or English. Both validated editions use the exact same WinG proxy,
+> launcher, local WinG patch, short-path handling, and audio-shutdown fix.
+> What changes between editions is principally how the original CD must be
+> reconstructed and which paths/configuration that layout needs. The safe
+> builder below deliberately accepts only the two fully verified CD builds,
+> but porters and coding assistants can adapt the same core to another edition.
+> See [Porting other editions](PORTING_OTHER_EDITIONS.md).
+
 > This project contains no game executable, resource, audio, disc image, or
 > original Microsoft WinG binary. You need your own legitimate original CD.
 
@@ -60,6 +69,13 @@ that folder, so back them up first if desired.
 | JumpStart 3rd Grade | `63F72788226CA073F6C813008FF3FF889E2C8D93F10179E8CCF994C316CFDC03` |
 
 Unknown builds are refused rather than patched speculatively.
+
+This refusal is a safety boundary in the automatic CD builder, not evidence
+that the runtime patch is incompatible with every other build. If you have a
+Portuguese, French, German, later English, or other edition, follow
+[Porting other editions](PORTING_OTHER_EDITIONS.md) from a disposable copy and
+report the resulting hashes and layout. Do not replace or patch an unknown
+WinG binary blindly.
 
 ## What the patch changes
 

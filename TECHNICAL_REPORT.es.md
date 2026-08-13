@@ -165,6 +165,19 @@ archivos ocultos, de sistema o de solo lectura en la portable resultante.
 
 ## Publicación
 
+El proxy, el lanzador, el parche local de WinG y la mitigación de cierre de
+audio forman un único núcleo compartido por las dos ediciones verificadas. No
+son dos arreglos técnicos independientes. Lo específico de cada edición es la
+receta que reconstruye los archivos seleccionados por su instalador y, cuando
+corresponde, la detección que decide sus rutas y contenido INI. Por eso un hash
+de `3G.EXE` desconocido se rechaza en el constructor estable aunque el núcleo
+pueda ser reutilizable.
+
+`PORTING_OTHER_EDITIONS.md` documenta cómo evaluar otras variantes sin rebajar
+esa frontera de seguridad. Una edición adicional solo debe anunciarse como
+compatible después de reconstruirla de forma determinista y probar imagen,
+entrada, audio, persistencia y cierre.
+
 El paquete publicable debe contener únicamente:
 
 - el aplicador PowerShell;
